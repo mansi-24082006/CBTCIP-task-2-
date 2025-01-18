@@ -14,7 +14,7 @@ background-attachment: fixed;
 .container h1{
     color: #0e0d0d;
     font-size: 50px;
-    margin-left: 520px;
+    margin-left: 490px;
     font-family: monospace;
 }
 .todo-app{
@@ -35,7 +35,7 @@ color: #002765;
 display: flex ;
 align-items: center;
 margin-bottom: 60px;
-margin-top: -10px;
+margin-top: 0px;
 font-size: 40px;
 
 }
@@ -58,10 +58,10 @@ font-size: 40px;
 input{
     flex: 1;
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 20px;
     outline: none;
     background: transparent;
-    padding: 10px;
+    padding: 15px;
 }
 button{
     border: 4px soid rgb(0, 0, 0);
